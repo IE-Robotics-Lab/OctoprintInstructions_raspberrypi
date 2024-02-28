@@ -6,6 +6,10 @@ Check Videos Demo and Images for more help.
 by [Gregorio Orlando](https://github.com/GRINGOLOCO7)
  <br>
 
+<div align="center">
+  <img src="Images\IntroImmage.png" alt="AddFirstCam" width="400" />
+</div>
+
 # Table of Contents
 
 1. [Introduction](#introduction)
