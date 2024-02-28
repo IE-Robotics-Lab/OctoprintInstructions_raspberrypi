@@ -16,6 +16,7 @@ by [Gregorio Orlando](https://github.com/GRINGOLOCO7)
 2. [Connect 2 Cameras](#connect-2-cameras)
 3. [Connect 2 3D Printers](#connect-2-3d-printers)
 4. [How to Do a Good Slice](#how-to-do-a-good-slice)
+5. [Usage](#usage)
 6. [Plugins](#pluggins)
 7. [Printers Mantainence](#printer-mantainence)
 8. [Attention](#attention)
@@ -160,7 +161,7 @@ Tune_printer_model then drag the .gcode file or press upload file in the OctoPri
 
 
 
-# USAGE:
+# Usage:
 1. Design/Download your model (Online there are sites such as [GrabCad](https://grabcad.com/library/software/nx) to Download models, or you can download for free [Fusion360](https://www.autodesk.com/campaigns/education/fusion-360) to design your own models)
 1. Open [Cura](https://ultimaker.com/software/ultimaker-cura/) and on top left add the 3D printers we have in  the lab [CuraPrintersProfiles](OctoprintInstructions_raspberrypi\Images\CuraPrintersProfiles.png)
 1. Import your model in Cura to slice it (slice mean tune the settings as you prefare.)
